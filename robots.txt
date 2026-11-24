@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keemtaehwi.github.io/sitemap.xml
+Sitemap: https://keemtaehwi.github.io/taetae-site/sitemap.xml
+Sitemap: https://keemtaehwi.github.io/jangkal-busan-site/sitemap.xml
